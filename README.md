@@ -5,7 +5,7 @@ Welcome to my personal GitHub! I'm Kibele Sebnem Yildirim, a fourth-year student
 ## 📚 Education
 - **University of British Columbia (UBC), Canada**  
   B.A. in Computer Science & Economics (Expected Graduation: May 2025)  
-  Merit-based Full Scholarship (255K CAD)  
+  Merit-based Full Scholarship
   **GPA:** 3.70/4.00
 
 ## 📄 Publications & Presentations
