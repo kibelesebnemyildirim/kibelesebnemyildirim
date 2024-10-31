@@ -24,8 +24,8 @@ Welcome to my personal GitHub! I'm Kibele Sebnem Yildirim, a fourth-year student
   September 2024 – Present, UBC  
 - **Undergraduate Research Assistant**  
   *UBC Operations Management Group*  
-  May 2023 – Present  
-  *UBC Materials and Manufacturing Research Institute
+  May 2023 – Present
+  *UBC Materials and Manufacturing Research Institute*
   May 2022 – April 2023 
 - **Summer Research Trainee**  
   *University of Stuttgart*  
