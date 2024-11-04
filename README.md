@@ -6,7 +6,6 @@ Welcome to my personal GitHub! I'm Kibele Sebnem Yildirim, a fourth-year student
 - **University of British Columbia (UBC), Canada**  
   B.A. in Computer Science & Economics (Expected Graduation: May 2025)  
   Merit-based Full Scholarship
-  **GPA:** 3.70/4.00
 
 ## 📄 Publications & Presentations
 - **Optimizing Home Care Worker Assignments**  
@@ -41,7 +40,7 @@ Welcome to my personal GitHub! I'm Kibele Sebnem Yildirim, a fourth-year student
 - **Karen McKellin International Leader of Tomorrow Award** - UBC (2021)  
 - **1st Place** - Global Youth Entrepreneurship Challenge (GYEC), 2021  
 
-[Learn more about my background and awards in my full CV.](https://kibelesebnemyildirim.github.io/html/index.html)
+[Learn more about my background and awards.](https://kibelesebnemyildirim.github.io/html/index.html)
 
 ## 🎓 Selected Courses
 - **Economics:** Applied Macroeconomic Analysis (A), International Finance (A+), Money and Banking (A+)
