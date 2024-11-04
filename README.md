@@ -1,6 +1,6 @@
 ## Hi there, I am Kibele! 👋
 
-Welcome to my personal GitHub! I'm Kibele Sebnem Yildirim, a fourth-year student majoring in Computer Science and Economics at the University of British Columbia (UBC), Canada. As a full-ride scholarship recipient facing financial hardships, I’m deeply committed to leveraging my skills in computer science, economics, and operations research to make a positive impact.
+Welcome to my personal GitHub! I'm Kibele Sebnem Yildirim, a fourth-year student majoring in Computer Science and Economics at the University of British Columbia (UBC), Canada. As a full-ride scholarship recipient, I have learned firsthand the value of perseverance and determination. My journey has fueled my passion for leveraging technology and economics to drive meaningful change. I’m dedicated to using my skills in computer science, economics, and operations research to create innovative solutions that can make a real difference in the world. Thank you for joining me on this path to impact and discovery!
 
 ## 📚 Education
 - **University of British Columbia (UBC), Canada**  
